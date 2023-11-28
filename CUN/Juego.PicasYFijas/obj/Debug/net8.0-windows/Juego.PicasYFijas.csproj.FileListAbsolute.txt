@@ -1,0 +1,16 @@
+C:\Users\ingfr\Downloads\Juego.PicasYFijas\obj\Debug\net8.0-windows\Juego.PicasYFijas.Form1.resources
+C:\Users\ingfr\Downloads\Juego.PicasYFijas\obj\Debug\net8.0-windows\Juego.PicasYFijas.csproj.GenerateResource.cache
+C:\Users\ingfr\Downloads\Juego.PicasYFijas\obj\Debug\net8.0-windows\Juego.PicasYFijas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ingfr\Downloads\Juego.PicasYFijas\obj\Debug\net8.0-windows\Juego.PicasYFijas.AssemblyInfoInputs.cache
+C:\Users\ingfr\Downloads\Juego.PicasYFijas\obj\Debug\net8.0-windows\Juego.PicasYFijas.AssemblyInfo.cs
+C:\Users\ingfr\Downloads\Juego.PicasYFijas\obj\Debug\net8.0-windows\Juego.PicasYFijas.csproj.CoreCompileInputs.cache
+C:\Users\ingfr\Downloads\Juego.PicasYFijas\bin\Debug\net8.0-windows\Juego.PicasYFijas.exe
+C:\Users\ingfr\Downloads\Juego.PicasYFijas\bin\Debug\net8.0-windows\Juego.PicasYFijas.deps.json
+C:\Users\ingfr\Downloads\Juego.PicasYFijas\bin\Debug\net8.0-windows\Juego.PicasYFijas.runtimeconfig.json
+C:\Users\ingfr\Downloads\Juego.PicasYFijas\bin\Debug\net8.0-windows\Juego.PicasYFijas.dll
+C:\Users\ingfr\Downloads\Juego.PicasYFijas\bin\Debug\net8.0-windows\Juego.PicasYFijas.pdb
+C:\Users\ingfr\Downloads\Juego.PicasYFijas\obj\Debug\net8.0-windows\Juego.PicasYFijas.dll
+C:\Users\ingfr\Downloads\Juego.PicasYFijas\obj\Debug\net8.0-windows\refint\Juego.PicasYFijas.dll
+C:\Users\ingfr\Downloads\Juego.PicasYFijas\obj\Debug\net8.0-windows\Juego.PicasYFijas.pdb
+C:\Users\ingfr\Downloads\Juego.PicasYFijas\obj\Debug\net8.0-windows\Juego.PicasYFijas.genruntimeconfig.cache
+C:\Users\ingfr\Downloads\Juego.PicasYFijas\obj\Debug\net8.0-windows\ref\Juego.PicasYFijas.dll
